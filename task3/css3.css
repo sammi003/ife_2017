@@ -1,0 +1,47 @@
+body{
+	padding: 20px;
+	font-family: "黑体";
+	font-size: 15px;
+}
+.main{
+	margin: 0 auto;
+	padding: 20px;
+	background: #eee;
+	border: 1px solid #999;
+	overflow: auto;
+	min-width: 600px;
+}
+.leftspace{
+	float: left;
+	padding: 20px;
+	width: 160px;
+	background: white;
+	border: 1px solid #999;
+}
+.team_logo{
+	float: left;
+}
+.team_name{
+	font-size: 13px;
+	width: 180px;
+	text-align: center;
+}
+.rightspace{
+	float: right;
+	width: 120px;
+	background: white;
+	border: 1px solid #999;
+}
+.team_member{
+	background: white;
+	margin: 20px;
+	display: block;
+	border: 1px solid #999;
+}
+.middlespace{
+	padding: 20px;
+	background: white;
+	border: 1px solid #999;
+	margin-left: 220px;
+	margin-right: 140px;
+}
